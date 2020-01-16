@@ -1,0 +1,50 @@
+baseURL = "https://app.javyhuerta.com/"
+languageCode = "es-mx"
+title = "slate theme demo"
+theme = "slate"
+
+publishDir = "docs"
+
+[ params ]
+Favicon = "favicon.ico"
+OpenLinksInNewWindow = true
+
+[[ params.nav ]]
+name = "favorites"
+tag = "favorite"
+icon = "star"
+
+[[ params.nav ]]
+name = "search"
+tag = "search"
+icon = "search"
+
+[[ params.nav ]]
+name = "shopping"
+tag = "shopping"
+icon = "shopping-basket"
+
+[[ params.nav ]]
+name = "music"
+tag = "music"
+icon = "headphones"
+
+[[ params.nav ]]
+name = "video"
+tag = "video"
+icon = "video-camera"
+
+[[ params.nav ]]
+name = "Banco de imagenes"
+tag = "img"
+icon = "file-image-o"
+
+[[ params.nav ]]
+name = "Fuentes"
+tag = "font"
+icon = "font"
+
+[[ params.nav ]]
+name = "Misceláneos"
+tag = "otros"
+icon = "random"

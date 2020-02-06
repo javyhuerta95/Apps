@@ -40,12 +40,6 @@ tiles:
   url: "https://doto.com.mx/"
   img: "logos/doto.jpg"
   tags: ["shopping"]
--
-  name: "twitter"
-  url: "https://twitter.com"
-  img: "logos/twitter.svg"
-  bg_color: "#1da1f2"
-  txt_color: "#f5f8fa"
 
 # Banco de imagenes
 
@@ -182,3 +176,57 @@ tiles:
   url: "https://www.xtb.com/es"
   img: "logos/xtb.png"
   tags: ["inversiones"]
+
+# Hosting y/o Dominio
+
+-
+  name: "Sered"
+  url: "https://sered.net/"
+  img: "logos/sered.png"
+  tags: ["internet"]
+
+-
+  name: "Godaddy"
+  url: "https://mx.godaddy.com/"
+  img: "logos/godaddy.jpg"
+  tags: ["internet"]
+
+# Email Marketing
+
+-
+  name: "Get Response"
+  url: "https://www.getresponse.es/"
+  img: "logos/getresponse.png"
+  tags: ["email"]
+
+-
+  name: "Mailchimp"
+  url: "https://mailchimp.com/"
+  img: "logos/mailchimp.png"
+  tags: ["email"]
+
+-
+  name: "Aweber"
+  url: "https://www.aweber.com/"
+  img: "logos/aweber.png"
+  tags: ["email"]
+
+# Cursos online
+
+-
+  name: "Udemy"
+  url: "https://www.udemy.com/"
+  img: "logos/udemy.jpg"
+  tags: ["cursos"]
+
+-
+  name: "EDTeam"
+  url: "https://ed.team/"
+  img: "logos/edteam.jpg"
+  tags: ["cursos"]
+
+-
+  name: "Kodoti"
+  url: "https://kodoti.com/"
+  img: "logos/kodoti.jpg"
+  tags: ["cursos"]

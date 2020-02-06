@@ -44,3 +44,18 @@ icon = "file-video-o"
 name = "Inversiones"
 tag = "inversiones"
 icon = "money"
+
+[[ params.nav ]]
+name = "Hosting y/o Dominio"
+tag = "internet"
+icon = "server"
+
+[[ params.nav ]]
+name = "Email Marketing"
+tag = "email"
+icon = "envelope-open-o"
+
+[[ params.nav ]]
+name = "Cursos"
+tag = "cursos"
+icon = "play-circle"

@@ -1,6 +1,6 @@
 baseURL = "https://app.javyhuerta.com/"
 languageCode = "es-mx"
-title = "slate theme demo"
+title = "Caja de Herramientas"
 theme = "slate"
 
 publishDir = "docs"
@@ -48,3 +48,13 @@ icon = "font"
 name = "Misceláneos"
 tag = "otros"
 icon = "random"
+
+[[ params.nav ]]
+name = "Herramientas de programacion"
+tag = "programaciontools"
+icon = "code"
+
+[[ params.nav ]]
+name = "Banco de videos"
+tag = "banvideo"
+icon = "file-video-o"

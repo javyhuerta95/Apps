@@ -65,6 +65,30 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#000000"
   tags: ["shopping"]
+
+-
+  name: "GearBest"
+  url: "https://mx.gearbest.com"
+  img: "logos/gearbest.jpg"
+  tags: ["shopping"]
+
+-
+  name: "Banggod"
+  url: "https://www.banggood.com/"
+  img: "logos/banggod.jpg"
+  tags: ["shopping"]
+
+-
+  name: "CiberPuerta"
+  url: "https://www.cyberpuerta.mx"
+  img: "logos/ciberpuerta.png"
+  tags: ["shopping"]
+
+-
+  name: "Doto"
+  url: "https://doto.com.mx/"
+  img: "logos/doto.jpg"
+  tags: ["shopping"]
 -
   name: "twitter"
   url: "https://twitter.com"
@@ -112,6 +136,14 @@ tiles:
   name: "Pexels"
   url: "https://www.pexels.com/"
   img: "logos/pexels.jpg"
+  bg_color: "#ffffff"
+  txt_color: "#85bf25"
+  tags: ["img"]
+
+-
+  name: "Unsplash"
+  url: "https://www.unsplash.com/"
+  img: "logos/unsplash.png"
   bg_color: "#ffffff"
   txt_color: "#85bf25"
   tags: ["img"]
@@ -175,3 +207,35 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#85bf25"
   tags: ["otros"]
+
+-
+  name: "Canva"
+  url: "https://www.canva.com/"
+  img: "logos/canva.png"
+  bg_color: "#ffffff"
+  txt_color: "#85bf25"
+  tags: ["otros"]
+
+-
+  name: "Regex101"
+  url: "https://regex101.com/"
+  img: "logos/regex.png"
+  bg_color: "#ffffff"
+  txt_color: "#85bf25"
+  tags: ["programaciontools"]
+
+-
+  name: "CodePen"
+  url: "https://codepen.io/"
+  img: "logos/codepen.jpg"
+  bg_color: "#ffffff"
+  txt_color: "#85bf25"
+  tags: ["otros"]
+
+-
+  name: "Coverr"
+  url: "https://coverr.co/"
+  img: "logos/coverr.png"
+  bg_color: "#ffffff"
+  txt_color: "#85bf25"
+  tags: ["banvideo"]

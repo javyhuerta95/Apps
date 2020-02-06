@@ -10,29 +10,10 @@ Favicon = "favicon.ico"
 OpenLinksInNewWindow = true
 
 [[ params.nav ]]
-name = "favorites"
-tag = "favorite"
-icon = "star"
-
-[[ params.nav ]]
-name = "search"
-tag = "search"
-icon = "search"
-
-[[ params.nav ]]
 name = "shopping"
 tag = "shopping"
 icon = "shopping-basket"
 
-[[ params.nav ]]
-name = "music"
-tag = "music"
-icon = "headphones"
-
-[[ params.nav ]]
-name = "video"
-tag = "video"
-icon = "video-camera"
 
 [[ params.nav ]]
 name = "Banco de imagenes"
@@ -58,3 +39,8 @@ icon = "code"
 name = "Banco de videos"
 tag = "banvideo"
 icon = "file-video-o"
+
+[[ params.nav ]]
+name = "Inversiones"
+tag = "inversiones"
+icon = "money"
